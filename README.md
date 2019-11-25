@@ -1,2 +1,2 @@
 # Pong
-Based on the classic Pong game, this applications was designed in Python 3.
+Based on the classic Pong game, this application was coded in Python 3.
